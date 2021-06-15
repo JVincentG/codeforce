@@ -1,0 +1,5 @@
+j, k = input().split()
+ji = int(j)
+ki = int(k)
+result = (ji * ki //2)
+print(round(result))
